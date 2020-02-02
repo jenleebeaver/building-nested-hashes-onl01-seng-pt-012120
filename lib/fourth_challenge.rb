@@ -7,7 +7,7 @@ def fourth_challenge
       :hero_friends => [
         {:name}
       ]
-   }, 
+   },
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
       :matriarch => {name: "Lady Capulet", age: "51"},
@@ -19,6 +19,6 @@ def fourth_challenge
    }
 }
 
-  
+
 
 end
